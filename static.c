@@ -5,8 +5,8 @@
 
 int main(int argc, char* argv[]) {
   if(argc != 8) {
-    printf("Use this command to display the end result as an image: ./outputFile <xmin> <xmax> <ymin> <ymax> <maxiter> <xres> <outputImage.ppm>\n", argv[0]);
-    printf("Example: ./outputFile 0.27085 0.27100 0.004640 0.004810 1000 1024 image.ppm\n", argv[0]);
+    printf("Use this command to display the end result as an image: ./outputFile <xmin> <xmax> <ymin> <ymax> <maxiter> <xres> <outputImage.ppm>\n");
+    printf("Example: ./outputFile 0.27085 0.27100 0.004640 0.004810 1000 1024 image.ppm\n");
     exit(EXIT_FAILURE);
   }
 
