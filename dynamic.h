@@ -10,7 +10,7 @@
 #define MO_N 2                    
 #define MO_THRESHOLD 4                    
 #define MO_SIZE 1024                 
-#define MO_FILENAME "./mandelbrot.bmp"  
+#define MO_FILENAME "./image.bmp"  
 #define MO_MAXITER 2000                 
 #define MO_BLOCKSIZE 1                   
                                               
